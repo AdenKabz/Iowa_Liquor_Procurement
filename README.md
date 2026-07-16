@@ -31,12 +31,12 @@ Click this link to view original data: [Iowa Liqour Sales](https://console.cloud
   * **Data Analysis** - SQL on Google BigQuery
 
 ## 📜 Table of Contents
-A) Processing Data <br><br>
+A) [Processing Data](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Processing%20Data) <br><br>
 B) Story Sections 
-  1) Overview
-  2) Time Analysis
-  3) Geographic Analysis
-  4) Store Analysis
-  5) Category Analysis
-  6) Item Analysis
-  7) Recommendations 
+  1) [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Overview)
+  2) [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Time%20Analysis)
+  3) [Geographic Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Geographic%20Analysis)
+  4) [Store Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Store%20Analysis)
+  5) [Category Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Category%20Analysis)
+  6) [Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Item%20Analysis)
+  7) [Recommendations](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Recommendations) 
