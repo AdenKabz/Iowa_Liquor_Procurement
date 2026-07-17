@@ -49,9 +49,9 @@ This indicates the volume or amount of the alcohol that is contained within a bo
 The following table shows the **top 10 bottle sizes** prevailing within the Iowa state (2016-2025):
 
 ![Top 10 Bottle Sizes (ml)](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/bottle%20size%20ml.png)
-- **750ml and 1750ml bottles** are the **top 2** in Iowa overall in terms of procurement expenditure, bottles procured and transactions with **750ml bottles** being the most dominant.
+- **750ml and 1750ml bottles** are the **top 2** in Iowa overall in terms of procurement expenditure, bottles procured and transactions with **750ml bottles** being the most dominant. <br><br>
 
-*Coming Next*: [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Time%20Analysis/time_analysis.md)
+*Coming Next*: [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Time%20Analysis/time_analysis.md) <br><br>
 
 
 ## References
