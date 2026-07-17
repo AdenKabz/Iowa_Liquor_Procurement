@@ -29,7 +29,7 @@ This is used to classify alcoholic beverages secured based on their price per li
 
 ![Product Premium Tier Metrics](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/pdt%20premium%20tier.png)
 - **The Standard tier (whose price per liter falls between $15 and $30)** has attracted the most procurement expenditure while the **Economy tier (whose price per liter is way below $15)** has garnered the greatest number of transactions and bottles procured.
-- **The Ultra-Premium tier (whose pice exceeds $50)** ranks the lowest overall in terms of total procurement expenditure, bottles procured and transactions.
+- **The Ultra-Premium tier (whose price exceeds $50)** ranks the lowest overall in terms of total procurement expenditure, bottles procured and transactions.
 
 ## Pack
 This can simply be thought of as a bundle of liquor bottles. A pack often contains the same brand of equal bottle sizes bundled together. Retail stores usually have a choice to decide whether a case should come containing individual bottles or one or more packs. 
