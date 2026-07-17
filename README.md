@@ -18,9 +18,7 @@ The **Iowa state** through the **Iowa Alcoholic Beverages Division** calls the s
   * What is the overall outlook of Iowa liquor procurement?
   * How does Iowa liquor procurement trend across each time dimensions, that is, year, month, season and day of the week?
   * How does Iowa liquor procurement perform as viewed through the geographical lens?
-  * What are the top 10 stores dominating the Iowa liquor procurement space?
-  * What are the top categories driving the Iowa liquor procurement vehicle?
-  * What are the top items dominating liquor ordering in Iowa?
+  * What are the dominant stores, categories and items in the procurement space?
 
 ## 🔗 Data Source
 Click this link to view original data: [Iowa Liqour Sales](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1sbigquery-public-data!2siowa_liquor_sales!3ssales)
@@ -36,7 +34,4 @@ B) Story Sections
   1) [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Overview)
   2) [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Time%20Analysis)
   3) [Geographic Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Geographic%20Analysis)
-  4) [Store Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Store%20Analysis)
-  5) [Category Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Category%20Analysis)
-  6) [Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Item%20Analysis)
-  7) [Recommendations](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Recommendations) 
+  4) [Store, Category and Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Store%2C%20Category%20and%20Item%20Analysis)
