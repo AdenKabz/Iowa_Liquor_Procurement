@@ -15,7 +15,7 @@ The figure below shows the **top 10 stores** that prevailed across the various p
 ![Top 10 Stores](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/store%20metrics.png)
 [Tableau Link - Store Analysis](https://public.tableau.com/views/IowaLiquorProcurementAnalysis/Store-KeyMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Hy-Vee #3/ BDI/ Des Moines** and **Central City 2** are the **top 2 stores** leading with **very high procurement numbers** in terms of **total transactions**, **total procurement expenditure**, **total bottles procured**, **total cases procured** and **total volume procured liters**.
-- In terms of **average price per liter**, each of the **top 10 stores** has an **average price pper liter** above **$60**. In addition, **Hy-Vee Gas #5018/ Ames** has the **very highest average price per liter** that goes way beyond **$240**.
+- In terms of **average price per liter**, each of the **top 10 stores** has an **average price per liter** above **$60**. In addition, **Hy-Vee Gas #5018/ Ames** has the **very highest average price per liter** that goes way beyond **$240**.
 
 ## Dominant Categories
 The figure below indicates the **top 10 categories** that have earned a crown across the different procurement metrics in Iowa:
