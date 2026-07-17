@@ -12,6 +12,7 @@ The liquor industry of Iowa is tightly controlled by the state through **Iowa Al
 ## Procurement Overview
 
 ![Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/overview.png)
+[Tableau Link - Overview](https://public.tableau.com/views/IowaLiquorProcurementAnalysis/Overview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - In the **10-year period (2016-2025)**, the **overall daily recorded transactions** were **24,661,604**, **procurement expenditure** amounted to **over $3.8 billion** and the number of individual **bottles procured totaled 283,348,898**.
 - A **case** is usually the container or box the distributor or wholesaler uses to package the individual bottles, which is then transported to the retail store. Based on the data, **a total of 26,472,719 cases were procured**.
 - The standard measure of alcoholic beverages is milliliters (ml) but in this a uniform base (liter - a liter being 1000ml) was adopted. The **overall volume liters** that was procured according to the data was **227,227,431**. In addition, the **overall average price per liter** was noted to be **$17.03** which means that most liquor bottles fell under the **Standard tier** (More on this later).
