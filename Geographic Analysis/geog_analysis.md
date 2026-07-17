@@ -16,7 +16,7 @@ The below figure shows the **top 10 counties** across the various procurement me
 
 ![Top 10 Counties](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/county%20metrics.png)
 [Tableau Link - County Analysis](https://public.tableau.com/views/IowaLiquorProcurementAnalysis/County-KeyMetrics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- The **top 3 counties (Polk, Linn and Scott)** consistently prevail in terms of **total transactions**, **total procurement expenditure**, **total bottles procured**, **total cases procured** and **total volume procured liters**. Particulary, **Polk** leads with **astronomical** figures.
+- The **top 3 counties (Polk, Linn and Scott)** consistently prevail in terms of **total transactions**, **total procurement expenditure**, **total bottles procured**, **total cases procured** and **total volume procured liters**. Particularly, **Polk** leads with **astronomical** figures.
 - **El Paso** has the **highest average price per liter** which is slightly over **$20**.
 - The **dominant counties** that appear across **all procurement metrics** are: **Polk**, **Johnson**, **Pottawattamie**, **Scott** and **Woodbury**.
 
