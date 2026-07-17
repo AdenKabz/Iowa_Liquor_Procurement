@@ -4,7 +4,7 @@
 
 ![County and City Count](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/county%20and%20city%20count.png)
 
-A total of **100 counties** and **505 cities** are observed to be present in **Iowa state**. The geographical analysis attempts to showcase the very top counties and cities where procurement is at its absolute best. Below is a map of Iowa showing the various counties and cities it entails:
+A total of **100 counties** and **505 cities** are observed to be present in **Iowa state**. The geographical analysis attempts to showcase the very top counties and cities where procurement is at its absolute best in the period between 2016 and 2025. Below is a map of Iowa showing the various counties and cities it entails:
 
 ![Iowa Map](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/images/Iowa%20map%20(Ezilon%20Maps).gif)
 Credits: Ezilon Maps <br><br>
