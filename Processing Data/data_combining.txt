@@ -1,1 +1,4 @@
+# Data Combining
 
+## The Process
+"cleaned_data_final_part1.giz.csv" was uploaded to **BigQuery** and a table called "sales_fact" was created. After that, all the files from "cleaned_data_final_part2.giz.csv" to "cleaned_data_final_part13.giz.csv were uploaded and uppended to the "sales_fact" table inside **BigQuery**. The total number of rows was 24,661,604. 
