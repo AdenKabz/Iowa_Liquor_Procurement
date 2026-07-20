@@ -34,7 +34,7 @@ B) Story Sections
   1) [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Overview)
   2) [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Time%20Analysis)
   3) [Geographic Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Geographic%20Analysis)
-  4) [Store, Category and Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Store%2C%20Category%20and%20Item%20Analysis)
+  4) [Store, Category and Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Store%2C%20Category%20and%20Item%20Analysis)  <br><br>
 
 
-Coming Next: [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Overview/overview.md)
+*Coming Next*: [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Overview/overview.md)
