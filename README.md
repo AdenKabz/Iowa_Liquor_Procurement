@@ -31,10 +31,11 @@ Click this link to view original data: [Iowa Liqour Sales](https://console.cloud
 ## 📜 Table of Contents
 A) [Processing Data](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Processing%20Data) <br><br>
 B) Story Sections 
-  1) [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Overview)
-  2) [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Time%20Analysis)
-  3) [Geographic Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Geographic%20Analysis)
-  4) [Store, Category and Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Store%2C%20Category%20and%20Item%20Analysis)  <br><br>
+  1) [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Overview/overview.md)
+  2) [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Time%20Analysis/time_analysis.md)
+  3) [Geographic Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Geographic%20Analysis/geog_analysis.md)
+  4) [Store, Category and Item Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Store%2C%20Category%20and%20Item%20Analysis/store_category_item.md)
+  5) [Recommendations](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Recommendations/recommendations.md)  <br><br>
 
 
 *Coming Next*: [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Overview/overview.md)
