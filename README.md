@@ -29,7 +29,12 @@ Click this link to view original data: [Iowa Liqour Sales](https://console.cloud
   * **Data Analysis** - SQL on Google BigQuery
 
 ## 📜 Table of Contents
-A) [Processing Data](https://github.com/AdenKabz/Iowa_Liquor_Procurement/tree/main/Processing%20Data) <br><br>
+A) Processing Data
+  1) [Data Exploration](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Processing%20Data/data_exploration.sql)
+  2) [Data Cleaning 1](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Processing%20Data/data_cleaning1.sql)
+  3) [Data Cleaning 2](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Processing%20Data/data_cleaning2.py)
+  4) [Data Combining](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Processing%20Data/data_combining.txt)
+  5) [Data Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Processing%20Data/data_analysis.sql) <br><br>
 B) Story Sections 
   1) [Overview](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Overview/overview.md)
   2) [Time Analysis](https://github.com/AdenKabz/Iowa_Liquor_Procurement/blob/main/Time%20Analysis/time_analysis.md)
